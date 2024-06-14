@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, me llamo Pascual Morales </h1>
+<h3 align="center">me apasionada el analisis de datos</h3>
+
 # Portafolio-de-proyectos
 Este repositorio contiene los proyectos de cobros por medio de tarjeta de la empresa ABC, S.A. Los proyectos estan modelados en docuemento en excel y el proyecto de Ingenieria de Datos por medio de webscraping desde RStudio.
 
