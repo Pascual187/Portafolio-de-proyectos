@@ -5,7 +5,7 @@
 # Data-Analyst-Portafolio
 mis proyectos los cree en Excel y RStdio
 
-Este repositorio contiene los proyectos de cobros por medio de tarjeta de la empresa ABC, S.A. Los proyectos estan modelados en docuemento en excel y el proyecto de Ingenieria de Datos por medio de webscraping desde RStudio.
+El repositorio contiene los proyectos de cobros por atravez de tarjetas de la empresa ABC, S.A. Los proyectos estan modelados en docuemento en excel y el proyecto de Ingenieria de Datos por medio de webscraping desde RStudio.
 
 ## Tabla de Contenido
 ### Proyecto de Cobros por medio de la Tarjeta de la empresa ABC, S.A.
